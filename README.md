@@ -9,8 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu" alt="divyanshu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@divyans" target="blank"><img src="https://img.shields.io/twitter/follow/@divyans?logo=twitter&style=for-the-badge" alt="@divyans19133845" /></a> </p>
-- 🔭 I’m currently working on [Webxt](None)
+<p align="left"> <a href="https://twitter.com/@divyans" target="blank"><img src="https://img.shields.io/twitter/follow/@divyans?logo=twitter&style=for-the-badge" alt="@divyans191338465" /></a> </p>
+- 🔭 I’m currently working on [Webxt]
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS**
 
