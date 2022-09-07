@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS**
 
-- 👯 I’m looking to collaborate on [Big Project](None)
-
-- 🤝 I’m looking for help with [New](None)
+- 👯 I’m looking to collaborate on [Big Project]
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshuTiw/Divyanshu_Programmer](https://github.com/DivyanshuTiw/Divyanshu_Programmer)
 
