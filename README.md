@@ -9,12 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu" alt="divyanshu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@Divyans19133845" target="blank"><img src="https://img.shields.io/twitter/follow/@Divyans19133845?logo=twitter&style=for-the-badge" alt="@Divyans19133845" /></a> </p>
-- 🔭 I’m currently working on [Webxt]
+<p align="left"> <a href="https://twitter.com/@divyans19133845" target="blank"><img src="https://img.shields.io/twitter/follow/@divyans19133845?logo=twitter&style=for-the-badge" alt="@divyans19133845" /></a> </p>
+
+- 🔭 I’m currently working on [Webxt](None)
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS**
 
-- 👯 I’m looking to collaborate on [Big Project]
+- 👯 I’m looking to collaborate on [Big Project](None)
+
+- 🤝 I’m looking for help with [New](None)
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshuTiw/Divyanshu_Programmer](https://github.com/DivyanshuTiw/Divyanshu_Programmer)
 
@@ -24,8 +27,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@divyans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@divyans" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyanshu tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu tiwari" height="30" width="40" /></a>
+<a href="https://twitter.com/@divyans19133845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@divyans19133845" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyanshu (divyans) tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu (divyans) tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/divyanshutiwari123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyanshutiwari123" height="30" width="40" /></a>
 </p>
 
