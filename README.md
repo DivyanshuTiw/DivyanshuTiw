@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/@divyans19133845" target="blank"><img src="https://img.shields.io/twitter/follow/@divyans19133845?logo=twitter&style=for-the-badge" alt="@divyans19133845" /></a> </p>
 
-- 🔭 I’m currently working on [Webxt](None)
+- 🔭 I’m currently working on [Webxt]
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JS**
 
-- 👯 I’m looking to collaborate on [Big Project](None)
+- 👯 I’m looking to collaborate on [Big Project]
 
-- 🤝 I’m looking for help with [New](None)
+- 🤝 I’m looking for help with ...
 
 - 👨‍💻 All of my projects are available at [https://github.com/DivyanshuTiw/Divyanshu_Programmer](https://github.com/DivyanshuTiw/Divyanshu_Programmer)
 
